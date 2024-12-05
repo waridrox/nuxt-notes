@@ -7,7 +7,7 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare && prisma generate"
   },
   "dependencies": {
     "@prisma/nuxt": "^0.1.0",
@@ -16,7 +16,7 @@
     "bcryptjs": "^2.4.3",
     "jsonwebtoken": "^9.0.2",
     "nuxt": "^3.14.1592",
-    "sweetalert2": "^11.14.5",
+    "sweetalert2": "^11.6.13",
     "validator": "^13.12.0",
     "vue": "latest",
     "vue-router": "latest"
