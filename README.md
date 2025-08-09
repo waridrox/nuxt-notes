@@ -1,5 +1,10 @@
 # Todo List - MacOS Clone
 
+## Demo
+
+https://github.com/user-attachments/assets/c0d35f4f-8e27-4775-a84c-df02aba7dfb3
+
+
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
